@@ -1,0 +1,90 @@
+
+h1{
+    color: rgb(255,166,249);
+    text-align: center;
+	font-family:  'Roboto', sans-serif;;
+	font-weight: bold;
+	padding-top: 55px;
+	padding-bottom: 55px;
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 102, 255);
+}
+div{
+    text-align: center;
+    border-style: groove;
+    border-color: rgb(255, 158, 239, 0.5);
+    box-shadow: -5px -5px 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #d499b8;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #ffb8de;
+}
+p {
+   text-align: center; 
+
+    
+}
+.animals{
+  width: 100vw;
+  height: 100vh;
+  background-image: url('animals.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   position: absolute;
+}
+
+.melani{
+  width: 100vw;
+  height: 100vh;
+  background-image: url('melani.jpeg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   position: absolute;
+}
+h2{
+    
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	color: rgb(255, 163, 240);
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
